@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**anselmomendes/anselmomendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Anselmo Oliveira!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Engenheiro da Computação!
+
+:house_with_garden: Marabá/Pará.
+
+:books: Programador C# e Python.
+
+:outbox_tray: 2021 Goals: Desenvolvedor de Software e entusiasta em Inteligência Artificial e Ciencia de Dados.
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
