@@ -8,12 +8,9 @@
 
 :computer: Engenheiro da Computação!
 
-:house_with_garden: Marabá/Pará.
+:house_with_garden: Parauapebas/Pará.
 
-:books: Programador C# e Python.
-
-:outbox_tray: 2021 Goals: Desenvolvedor de Software e entusiasta em Inteligência Artificial e Ciencia de Dados.
-
+:books: Analista de Dados com habilidades em BI e Modelos de Predição.
 
 - Thanks for visiting.
 
