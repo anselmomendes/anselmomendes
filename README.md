@@ -10,7 +10,7 @@
 
 :house_with_garden: Parauapebas/Pará.
 
-:books: Analista de Dados com habilidades em BI e Modelos de Predição.
+:books: Engenheiro de Dados | Azure | Python | SQL | ETL | Docker
 
 - Thanks for visiting.
 
